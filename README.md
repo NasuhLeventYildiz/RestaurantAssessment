@@ -1,7 +1,7 @@
 # RestaurantAssessment
  RestaurantAssessmentRestAPI
  
- * This Project includes .net framework 5.0
+ * This Project includes .netCore framework 5.0
  * Within the scope of the project, swagger has been integrated in order to be easy to use and test.
  * JWT token is used for authentication.
  * Some concepts that came with C# 9.0 were tried to be used. Like 'record, init'
