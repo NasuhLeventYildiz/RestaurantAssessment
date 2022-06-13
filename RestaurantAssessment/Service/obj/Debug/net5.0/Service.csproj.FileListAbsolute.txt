@@ -1,0 +1,17 @@
+C:\Users\leven\Desktop\AselsanAssessment\RestaurantAssessment\Service\bin\Debug\net5.0\Service.deps.json
+C:\Users\leven\Desktop\AselsanAssessment\RestaurantAssessment\Service\bin\Debug\net5.0\Service.dll
+C:\Users\leven\Desktop\AselsanAssessment\RestaurantAssessment\Service\bin\Debug\net5.0\ref\Service.dll
+C:\Users\leven\Desktop\AselsanAssessment\RestaurantAssessment\Service\bin\Debug\net5.0\Service.pdb
+C:\Users\leven\Desktop\AselsanAssessment\RestaurantAssessment\Service\obj\Debug\net5.0\Service.csproj.AssemblyReference.cache
+C:\Users\leven\Desktop\AselsanAssessment\RestaurantAssessment\Service\obj\Debug\net5.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leven\Desktop\AselsanAssessment\RestaurantAssessment\Service\obj\Debug\net5.0\Service.AssemblyInfoInputs.cache
+C:\Users\leven\Desktop\AselsanAssessment\RestaurantAssessment\Service\obj\Debug\net5.0\Service.AssemblyInfo.cs
+C:\Users\leven\Desktop\AselsanAssessment\RestaurantAssessment\Service\obj\Debug\net5.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\leven\Desktop\AselsanAssessment\RestaurantAssessment\Service\obj\Debug\net5.0\Service.dll
+C:\Users\leven\Desktop\AselsanAssessment\RestaurantAssessment\Service\obj\Debug\net5.0\ref\Service.dll
+C:\Users\leven\Desktop\AselsanAssessment\RestaurantAssessment\Service\obj\Debug\net5.0\Service.pdb
+C:\Users\leven\Desktop\AselsanAssessment\RestaurantAssessment\Service\bin\Debug\net5.0\Common.dll
+C:\Users\leven\Desktop\AselsanAssessment\RestaurantAssessment\Service\bin\Debug\net5.0\Common.pdb
+C:\Users\leven\Desktop\AselsanAssessment\RestaurantAssessment\Service\obj\Debug\net5.0\Service.csproj.CopyComplete
+C:\Users\leven\Desktop\AselsanAssessment\RestaurantAssessment\Service\bin\Debug\net5.0\DAL.dll
+C:\Users\leven\Desktop\AselsanAssessment\RestaurantAssessment\Service\bin\Debug\net5.0\DAL.pdb
